@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+opencv-python
+pytesseract
+Pillow
+numpy
+python-docx
+fpdf
+openai
+python-dotenv
+requests
+streamlit
+pandas
+openpyxl
